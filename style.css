@@ -1,11 +1,16 @@
 h1 {
 color: red;
  font-size: 2rem;
+ text-align: center;
 }
+
+
 
 .heading {
   border: 2px;
   padding: 20px;
   margin-bottom: 15px;
-  
-  }
+  text-align: center;
+  background-color: lightGray;
+}
+
