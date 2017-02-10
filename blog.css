@@ -1,6 +1,10 @@
 p {
 border: 2px;
-padding: 10
-font-family: AppleGothic, sans-serif
+padding: 10px;
 border-color: lightGray;
+}
+
+h1 {
+  color: red;
+  background: aqua;
 }
