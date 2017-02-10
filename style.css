@@ -17,3 +17,7 @@ color: red;
 nav li {
 display: inline;
 }
+
+.footer {
+background-color: black;
+}
