@@ -21,3 +21,7 @@ text-align: center;
 border: 2px;
 padding: 5px;
 }
+
+nav li {
+display: inline;
+}
