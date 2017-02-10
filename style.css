@@ -3,7 +3,9 @@ color: rgb(0, 100, 28);
 }
 
 #heading {
-border: 5px;
-padding: 20px;
-margin-bottom: 15px;
-}
+  border: 2px;
+  padding: 20px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  }
