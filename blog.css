@@ -1,8 +1,23 @@
 p {
 background-color: DeepSkyBlue;
+text-align: center;
 }
 
 h1 {
   color: red;
   background: aqua;
+  text-align: center;
+}
+
+.heading {
+background-color: lightGray;
+border: 2px;
+border-color: gray;
+text-align: center;
+  
+}
+
+.posts {
+border: 2px;
+padding: 5px;
 }
