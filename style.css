@@ -26,3 +26,7 @@ background-color: darkGray;
 .heading a {
 color: red;
 }
+
+.img {
+background-image: https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/RedCrystalSword.jpg;
+}
