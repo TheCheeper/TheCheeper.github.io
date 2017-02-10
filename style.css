@@ -15,10 +15,14 @@ color: red;
 }
 
 nav li {
-display: inline;
+display: block;
  color: gray;
 }
 
 .footer {
-background-color: black;
+background-color: darkGray;
+}
+
+.heading a {
+color: red;
 }
