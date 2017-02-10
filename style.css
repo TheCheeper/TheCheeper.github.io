@@ -1,5 +1,5 @@
 h1 {
-color: lightGreen;
+color: red;
  font-size: 2rem;
 }
 
@@ -7,6 +7,5 @@ color: lightGreen;
   border: 2px;
   padding: 20px;
   margin-bottom: 15px;
-  display: flex;
-  flex-wrap: wrap;
+  
   }
