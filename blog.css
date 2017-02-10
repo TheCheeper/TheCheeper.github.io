@@ -1,4 +1,4 @@
-p {
+.posts p {
 background: DeepSkyBlue;
 text-align: center;
 }
@@ -23,5 +23,12 @@ padding: 5px;
 }
 
 nav li {
-display: inline-table;
+display: block;
+color: gray;
 }
+
+.footer {
+  background-color: darkGray;
+}
+
+
