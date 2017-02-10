@@ -23,5 +23,5 @@ padding: 5px;
 }
 
 nav li {
-display: inline;
+display: inline-table;
 }
