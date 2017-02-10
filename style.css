@@ -1,8 +1,9 @@
 h1 {
-color: rgb(0, 100, 28);
+color: lightGreen;
+  font-family: 'Helvetica', sans-serif;
 }
 
-#heading {
+.heading {
   border: 2px;
   padding: 20px;
   margin-bottom: 15px;
