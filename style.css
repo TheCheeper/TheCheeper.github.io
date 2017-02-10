@@ -28,5 +28,5 @@ color: red;
 }
 
 .img {
-background-image: https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/RedCrystalSword.jpg;
+background-image: url(https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/RedCrystalSword.jpg);
 }
