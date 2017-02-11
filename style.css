@@ -2,20 +2,22 @@ h1 {
 color: red;
  font-size: 2rem;
  text-align: center;
+ font-family: 'Courier', 'Lucida';
+ text-align: left;
 }
 
 
 
-.heading {
-  border: 2px;
+.nav {
+  border: 1px;
   border-style: solid;
-  padding: 20px;
-  margin-bottom: 15px;
-  text-align: center;
+  text-align: left;
   background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
+  display: inline;
+ border-color: lightGray;
 }
 
-nav li {
+.footer li {
 display: block;
  color: gray;
 }
@@ -26,13 +28,11 @@ background-color: darkGray;
  border-style: solid;
 }
 
-.heading a {
-color: red;
+.nav a {
+color: aqua;
 }
 
-.img {
-text-align: center;
- border: 5px;
- border-style: solid;
- background-color: blue;
-}
+
+
+
+
