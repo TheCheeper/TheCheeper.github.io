@@ -17,6 +17,13 @@ text-align: center;
   
 }
 
+.container {
+background-color: darkBlue;
+border: 2px;
+border-style: solid;
+border-color: lightGray;
+}
+
 
 nav li {
 display: block;
