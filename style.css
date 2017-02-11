@@ -6,14 +6,14 @@ color: red;
  text-align: left;
 }
 
-
+.container {
+background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
+background-size: cover;
+}
 
 .nav {
-  border: 1px;
-  border-style: solid;
   text-align: left;
-  background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
-  display: inline;
+  display: flex;
  border-color: lightGray;
 }
 
@@ -23,8 +23,7 @@ display: block;
 }
 
 .footer {
-background-color: linear-gradient:(lightGray, darkGray);
- border: 3px;
+background-color: linear-gradient(lightGray, darkGray);
  border-style: solid;
 }
 
