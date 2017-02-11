@@ -8,6 +8,7 @@ color: red;
 
 .heading {
   border: 2px;
+  border-style: solid;
   padding: 20px;
   margin-bottom: 15px;
   text-align: center;
@@ -21,6 +22,8 @@ display: block;
 
 .footer {
 background-color: darkGray;
+ border: 3px;
+ border-style: solid;
 }
 
 .heading a {
@@ -29,5 +32,6 @@ color: red;
 
 .img {
 text-align: center;
- border: 2px;
+ border: 5px;
+ border-style: solid;
 }
