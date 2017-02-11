@@ -5,22 +5,18 @@ text-align: center;
 
 h1 {
   color: RGB(243, 23, 45);
-  background: aqua;
   text-align: center;
 }
 
 .heading {
-background-color: lightGray;
+background-color: aqua;
 border: 2px;
+border-style: solid;
 border-color: gray;
 text-align: center;
   
 }
 
-.posts {
-border: 2px;
-padding: 5px;
-}
 
 nav li {
 display: block;
@@ -29,6 +25,8 @@ color: gray;
 
 .footer {
   background-color: darkGray;
+  border: 3px;
+  border-style: solid;
 }
 
 
