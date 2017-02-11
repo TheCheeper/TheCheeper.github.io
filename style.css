@@ -23,7 +23,7 @@ display: block;
 }
 
 .footer {
-background-color: darkGray;
+background-color: linear-gradient:(lightGray, darkGray);
  border: 3px;
  border-style: solid;
 }
