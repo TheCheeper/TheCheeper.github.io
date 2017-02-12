@@ -1,8 +1,9 @@
 
 .nav h1 {
   color: RGB(243, 23, 45);
-  text-align: left;
 }
+
+
 
 .heading {
 background-color: aqua;
@@ -13,14 +14,12 @@ text-align: center;
   
 }
 
-.container {
-background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
-background-size: cover;
+.desc {
+background-color: linear-gradient(white, gray);
 }
 
 
 .nav a {
-display: flex;
 color: aqua;
 }
 
@@ -28,5 +27,7 @@ color: aqua;
   background-color: linear-gradient(lightGray, darkGray);
   color: gray;
 }
+
+.nav {}
 
 
