@@ -6,15 +6,18 @@ color: red;
  text-align: left;
 }
 
-.container {
+.img {
 background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
+background-size: cover;
 }
+
+
 
 .nav {
   text-align: left;
   display: flex;
  flex-wrap: wrap;
- border-color: lightGray;
+ background-color: linear-gradient(orange, darkOrange);
 }
 
 .footer li {
@@ -24,7 +27,7 @@ display: block;
 
 .footer {
 background-color: linear-gradient(lightGray, darkGray);
- border-style: solid;
+ 
 }
 
 .nav a {
