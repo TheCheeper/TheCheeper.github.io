@@ -17,3 +17,15 @@ border-color: gray;
 font-family: 'Courier', 'Lucida';
 margin-bottom: 30px;
 }
+
+.article-1 {
+text-align: left;
+background-color: lightGray;
+border: 2px;
+border-style: solid;
+border-color: darkGray;
+}
+
+.article-1 h2 {
+color: red;
+}
