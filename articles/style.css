@@ -1,1 +1,19 @@
+.heading a {
+color: aqua;
+}
 
+.heading h1 {
+color: red;
+}
+
+.heading {
+float: right;
+display: inline;
+text-align: left;
+background-color: darkOrange;
+border: 2px;
+border-style: solid;
+border-color: gray;
+font-family: 'Courier', 'Lucida';
+margin-bottom: 30px;
+}
