@@ -7,7 +7,7 @@ color: red;
 }
 
 .heading {
-display: inline;
+display: block;
 text-align: left;
 background-color: darkOrange;
 border: 2px;
@@ -18,8 +18,8 @@ margin-bottom: 30px;
 }
 
 .article-1 {
-text-align: left;
-background-color: lightGray;
+display: block;
+background: lightGray;
 border: 2px;
 border-style: solid;
 border-color: darkGray;
