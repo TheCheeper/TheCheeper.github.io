@@ -15,7 +15,8 @@ border-color: lightGray;
 }
 
 .desc {
-border-style: inset;
+border: 2px;
+border-style: outset;
 }
 
 .footer a {
