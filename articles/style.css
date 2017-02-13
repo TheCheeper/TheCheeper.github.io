@@ -20,11 +20,11 @@ margin-bottom: 30px;
 .article-1 {
 display: block;
 background: lightGray;
-border: 2px;
-border-style: solid;
-border-color: darkGray;
 }
 
-.article-1 h2 {
-color: red;
+.article-1 p {
+border: 1px;
+border-style: solid;
+border-color: lightGray;
+font-family: 'Gadget', sans-serif;
 }
