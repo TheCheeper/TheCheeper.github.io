@@ -1,33 +1,34 @@
-
-.nav h1 {
-  color: RGB(243, 23, 45);
+.heading h1 {
+font-family: 'Verdana', 'Arial';
+color: red;
 }
 
-
-
-.heading {
-background-color: aqua;
-border: 2px;
-border-style: solid;
-border-color: gray;
-text-align: center;
-  
-}
-
-.desc {
-background-color: linear-gradient(white, gray);
-}
-
-
-.nav a {
+.heading a {
 color: aqua;
 }
 
-.footer {
-  background-color: linear-gradient(lightGray, darkGray);
-  color: gray;
+.heading {
+background: darkOrange;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
 }
 
-.nav {}
+.desc {
+border-style: inset;
+}
 
+.footer a {
+display: inline;
+}
 
+.footer h4 {
+color: gray;
+}
+
+.footer {
+background-color: darkGray;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
+}
