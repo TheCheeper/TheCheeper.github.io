@@ -1,11 +1,21 @@
-h1 {
-color: red;
- font-size: 2rem;
- text-align: center;
- font-family: 'Courier', 'Lucida';
- text-align: left;
+.heading a {
+color: aqua;
 }
 
+.heading h1 {
+color: red;
+}
+
+.heading {
+display: inline;
+text-align: left;
+background-color: darkOrange;
+border: 2px;
+border-style: solid;
+border-color: gray;
+font-family: 'Courier', 'Lucida';
+margin-bottom: 30px;
+}
 .img {
 background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
 text-align: center;
