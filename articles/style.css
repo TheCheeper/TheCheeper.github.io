@@ -9,7 +9,8 @@ color: red;
 .heading {
 display: block;
 text-align: left;
-background-color: darkOrange;
+height: 200px;
+background-color: linear-gradient(darkOrange, orange, darkOrange);
 border: 2px;
 border-style: solid;
 border-color: gray;
