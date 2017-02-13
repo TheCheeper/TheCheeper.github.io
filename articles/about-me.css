@@ -1,0 +1,41 @@
+.heading h1 {
+font-family: 'Verdana', 'Arial';
+color: red;
+}
+
+.heading a {
+color: aqua;
+}
+
+.heading {
+background: darkOrange;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
+}
+
+.desc {
+border: 2px;
+border-style: solid;
+}
+
+.desc {
+border: 2px;
+border-style: outset;
+border-color: lightGray;
+}
+
+.footer a {
+display: inline;
+}
+
+.footer h4 {
+color: gray;
+}
+
+.footer {
+background-color: darkGray;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
+}
