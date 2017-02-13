@@ -1,56 +1,45 @@
+.heading h1 {
+font-family: 'Verdana', 'Arial';
+color: red;
+}
+
 .heading a {
 color: aqua;
 }
 
-.heading h1 {
-color: red;
-}
-
 .heading {
-display: inline;
-text-align: left;
-border: 2px;
+background: darkOrange;
+border: 1px;
 border-style: solid;
-border-color: gray;
-font-family: 'Courier', 'Lucida';
-margin-bottom: 30px;
-background: rgba(255,175,75,1);
-background: -moz-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,175,75,1)), color-stop(100%, rgba(255,146,10,1)));
-background: -webkit-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
-background: -o-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
-background: -ms-linear-gradient(top, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
-background: linear-gradient(to bottom, rgba(255,175,75,1) 0%, rgba(255,146,10,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffaf4b', endColorstr='#ff920a', GradientType=0 );
+border-color: lightGray;
 }
+
 .img {
-background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
 text-align: center;
+  background-image: url("https://raw.githubusercontent.com/TheCheeper/TheCheeper.github.io/master/A7C01ACA-CF7D-4201-A4FB-11C756D4CB3D-2535-000004D0A7E07751_tmp.png");
 }
 
-
-
-.nav {
-  text-align: left;
-  display: inline;
- background-color: orange;
+.img h4 {
+color: red;
+  font-family: 'Impact', 'Helvetica';
 }
 
-.footer li {
-display: block;
- color: gray;
+.img h3 {
+color: antiqueWhite;
+font-family: 'Impact', 'Helvetica';
+}
+
+.footer a {
+display: inline;
+}
+
+.footer h4 {
+color: gray;
 }
 
 .footer {
-background-color: linear-gradient(lightGray, darkGray);
- 
+background-color: darkGray;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
 }
-
-.nav a {
-color: aqua;
-}
-
-
-
-
-
