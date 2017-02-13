@@ -21,6 +21,8 @@ text-align: left;
 border: 2px;
 border-style: solid;
 border-color: darkGray;
+height: 300px;
+width: 300px;
 }
 
 .footer a {
