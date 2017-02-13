@@ -16,6 +16,11 @@ border-color: lightGray;
 
 .desc {
 border: 2px;
+border-style: solid;
+}
+
+.desc {
+border: 2px;
 border-style: outset;
 }
 
