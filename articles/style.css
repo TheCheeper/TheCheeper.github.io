@@ -12,17 +12,28 @@ background: darkOrange;
 border: 1px;
 border-style: solid;
 border-color: lightGray;
-margin-bottom: 2rem;
 }
 
-.article-1 {
-background-color: lightGray;
-text-align: left;
+.articles {
+text-align: center;
+  background-color: lightGray;
+  border: 2px;
+  border-style: solid;
+  border-color: darkGray;
+}
+
+.articles a {
+color: aqua;
+  font-family: 'Lucida', 'Helvetica';
+}
+
+.articles p {
+font-family: 'Lucida', 'Helvetica';
+}
+
+.articles {
 border: 2px;
-border-style: solid;
-border-color: darkGray;
-height: 300px;
-width: 300px;
+border-style: outset;
 }
 
 .footer a {
@@ -39,3 +50,4 @@ border: 1px;
 border-style: solid;
 border-color: lightGray;
 }
+
