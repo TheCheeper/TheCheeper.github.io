@@ -1,31 +1,39 @@
+.heading h1 {
+font-family: 'Verdana', 'Arial';
+color: red;
+}
+
 .heading a {
 color: aqua;
 }
 
-.heading h1 {
-color: red;
-}
-
 .heading {
-display: block;
-text-align: left;
-height: 200px;
-background-color: linear-gradient(darkOrange, orange, darkOrange);
-border: 2px;
-border-style: solid;
-border-color: gray;
-font-family: 'Courier', 'Lucida';
-margin-bottom: 30px;
-}
-
-.article-1 {
-display: block;
-background: lightGray;
-}
-
-.article-1 p {
+background: darkOrange;
 border: 1px;
 border-style: solid;
 border-color: lightGray;
-font-family: 'Gadget', sans-serif;
+margin-bottom: 2rem;
+}
+
+.article-1 {
+background-color: lightGray;
+text-align: left;
+border: 2px;
+border-style: solid;
+border-color: darkGray;
+}
+
+.footer a {
+display: inline;
+}
+
+.footer h4 {
+color: gray;
+}
+
+.footer {
+background-color: darkGray;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
 }
