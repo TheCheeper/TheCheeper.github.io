@@ -1,0 +1,30 @@
+.header {
+border: 2px;
+border-style: bottom;
+border-color: lightGray;
+background-color: linear-gradient(to right, Orange , DarkOrange);
+display: inline;
+text-align: left;
+}
+
+.main {
+border-style: solid;
+border-radius: 25px;
+}
+
+.header h1 {
+color: red;
+font-family: 'Courier', 'Lucida';
+}
+
+
+.footer h4 {
+color: gray;
+}
+
+.footer {
+background-color: darkGray;
+border: 1px;
+border-style: solid;
+border-color: lightGray;
+}
