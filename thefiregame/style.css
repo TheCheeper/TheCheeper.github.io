@@ -2,7 +2,8 @@
 border: 2px;
 border-style: bottom;
 border-color: lightGray;
-background-color: linear-gradient(to right, Orange , DarkOrange);
+background-color: rgb(255, 175, 46);
+background-color: hsla(30, 100%, 50%, 0.72);
 display: inline;
 text-align: left;
 }
@@ -23,7 +24,8 @@ color: gray;
 }
 
 .footer {
-background-color: darkGray;
+background-color: rgb(82, 79, 76);
+background-color: hsla(30, 4%, 31%, 0.92);
 border: 1px;
 border-style: solid;
 border-color: lightGray;
